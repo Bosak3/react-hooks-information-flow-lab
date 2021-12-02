@@ -22,3 +22,9 @@ function Item({ name, category }) {
 }
 
 export default Item;
+
+
+/* 
+
+
+*/
